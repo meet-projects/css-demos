@@ -1,0 +1,33 @@
+.sidebar {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 150px;
+	height: 100%;
+	background: salmon;
+}
+
+.main {
+	position: absolute;
+	top: 0px;
+	left: 150px;
+	width: 300px;
+	height: 100%;
+	border: 2px dashed black;
+}
+
+.inner {
+	position: relative;
+	top: 100px;
+	left: 50px;
+	width: 50%;
+	border: 2px dotted green;
+	color: red;
+}
+
+.corner {
+	position: fixed;
+	top: 40px;
+	right: 40px;
+	border: 3px solid blue;
+}

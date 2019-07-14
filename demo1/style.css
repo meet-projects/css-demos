@@ -1,0 +1,12 @@
+h1 {
+	color: blue;
+	font-size: 55px;
+}
+
+h2 {
+	font-family: Comic Sans MS;
+}
+
+p {
+	border: 2px dashed red;
+}
